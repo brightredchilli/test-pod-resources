@@ -1,6 +1,6 @@
 # test-pod-resources
 
-The purpose of this repo is to test out a potential cocoapods bug.
+The purpose of this repo is to test out a potential cocoapods bug.(https://github.com/CocoaPods/CocoaPods/issues/5105)
 
 ## Repro Steps
 
