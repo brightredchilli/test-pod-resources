@@ -1,0 +1,11 @@
+platform :ios, '8.0'
+
+inhibit_all_warnings!
+use_frameworks!
+
+link_with 'PodTest'
+
+target 'PodTest' do
+  pod 'SomeLibrary', :path => 'SomeLibrary'
+end
+

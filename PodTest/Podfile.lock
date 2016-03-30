@@ -1,0 +1,14 @@
+PODS:
+  - SomeLibrary (0.0.1)
+
+DEPENDENCIES:
+  - SomeLibrary (from `SomeLibrary`)
+
+EXTERNAL SOURCES:
+  SomeLibrary:
+    :path: SomeLibrary
+
+SPEC CHECKSUMS:
+  SomeLibrary: f8a2f0f39f0c2599fbf98f550e618892f77a2ab3
+
+COCOAPODS: 0.39.0
